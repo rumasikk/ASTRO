@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "textIcon": "2048",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "textIcon": "FB",
+    "iframeUrl": "https://flappybird.io/"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "textIcon": "PAC",
+    "iframeUrl": "https://freepacman.org/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "textIcon": "TET",
+    "iframeUrl": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "textIcon": "SLP",
+    "iframeUrl": "https://slopegame.io/"
+  }
+]
